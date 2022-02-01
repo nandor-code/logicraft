@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.1
+### Added
+- Blah blah bullshit
+
 ## 4.5.3
 ### Added
 - Discord Simple Rich Presence
